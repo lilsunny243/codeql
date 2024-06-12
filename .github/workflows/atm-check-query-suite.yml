@@ -68,7 +68,7 @@ jobs:
             "${QUERY_PACK}/${QUERY_SUITE}"
 
       - name: Upload SARIF
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: javascript-ml-powered-queries.sarif
           path: "${{ env.SARIF_PATH }}"
