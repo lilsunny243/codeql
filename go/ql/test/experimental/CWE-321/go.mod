@@ -6,7 +6,7 @@ require (
 	github.com/appleboy/gin-jwt/v2 v2.8.0
 	github.com/cristalhq/jwt/v3 v3.1.0
 	github.com/go-kit/kit v0.12.0
-	github.com/golang-jwt/jwt/v4 v4.4.1
+	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/lestrrat/go-jwx v0.9.1
 	github.com/square/go-jose/v3 v3.0.0-20200630053402-0a67ce9b0693
 	gopkg.in/square/go-jose.v2 v2.6.0
